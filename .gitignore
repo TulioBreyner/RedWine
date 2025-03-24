@@ -1,0 +1,22 @@
+# Dependências do Node.js
+node_modules/
+package-lock.json
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do Node.js
+*.tmp
+*.log
+
+# Configurações e credenciais sensíveis
+config.json
+
+# Arquivos gerados pelo editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
